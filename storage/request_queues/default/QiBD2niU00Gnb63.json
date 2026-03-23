@@ -1,0 +1,9 @@
+{
+	"id": "QiBD2niU00Gnb63",
+	"json": "{\"id\":\"QiBD2niU00Gnb63\",\"url\":\"https://www.stanford.edu\",\"loadedUrl\":\"https://www.stanford.edu/\",\"uniqueKey\":\"https://www.stanford.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-03-23T11:12:00.211Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.stanford.edu",
+	"url": "https://www.stanford.edu"
+}

@@ -3,7 +3,7 @@
   "retiredSessionsCount": 0,
   "sessions": [
     {
-      "id": "session_R0Q1wfctbO",
+      "id": "session_teatdOYvOg",
       "cookieJar": {
         "version": "tough-cookie@6.0.1",
         "storeType": "MemoryCookieStore",
@@ -11,25 +11,13 @@
         "enableLooseMode": false,
         "allowSpecialUseDomain": true,
         "prefixSecurity": "silent",
-        "cookies": [
-          {
-            "key": "JSESSIONID",
-            "value": "0F3F902A8FE8FE8313F30FE915FF0E93.cap-su-capappprd89",
-            "domain": "profiles.stanford.edu",
-            "path": "/",
-            "secure": true,
-            "httpOnly": true,
-            "hostOnly": true,
-            "creation": "2026-03-23T06:16:26.359Z",
-            "lastAccessed": "2026-03-23T06:16:26.359Z"
-          }
-        ]
+        "cookies": []
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2026-03-23T07:06:23.185Z",
-      "createdAt": "2026-03-23T06:16:23.185Z",
+      "expiresAt": "2026-03-23T12:01:59.712Z",
+      "createdAt": "2026-03-23T11:11:59.712Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
