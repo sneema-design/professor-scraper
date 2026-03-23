@@ -1,0 +1,9 @@
+{
+	"id": "5fxb6I7kzJ3tyjn",
+	"json": "{\"id\":\"5fxb6I7kzJ3tyjn\",\"url\":\"https://www.ox.ac.uk\",\"loadedUrl\":\"https://www.ox.ac.uk/\",\"uniqueKey\":\"https://www.ox.ac.uk\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-03-23T11:58:12.367Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ox.ac.uk",
+	"url": "https://www.ox.ac.uk"
+}
