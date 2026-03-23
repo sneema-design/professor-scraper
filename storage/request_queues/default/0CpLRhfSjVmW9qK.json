@@ -1,0 +1,9 @@
+{
+	"id": "0CpLRhfSjVmW9qK",
+	"json": "{\"id\":\"0CpLRhfSjVmW9qK\",\"url\":\"https://profiles.stanford.edu\",\"loadedUrl\":\"https://profiles.stanford.edu/\",\"uniqueKey\":\"https://profiles.stanford.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-03-23T06:16:26.371Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://profiles.stanford.edu",
+	"url": "https://profiles.stanford.edu"
+}
